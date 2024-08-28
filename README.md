@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **anything Javascript**
 
-- 📫 How to reach me **ayindematthew2003@gmail.com**
+- 📫 How to reach me **it.matthewayinde@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
