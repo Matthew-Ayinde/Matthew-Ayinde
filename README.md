@@ -4,7 +4,25 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Matthew and I'm a Software developer from lagos</h2>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Matthew-Ayinde/count.svg?"  />
+</div>
+
+###
+
+<h2 align="left">Hi 👋! My name is Matthew and I'm a Software Engineer</h2>
+
+- 🔭 I’m currently working on **Hildam couture(a tailoring management web app)**
+
+- 🌱 I use **The MERN Stack** for development
+
+- 👯 I’m looking to collaborate on **Intriguing projects**
+
+- 💬 Quiz about **anything Javascript**
+
+- 📫 How to reach me **it.matthewayinde@gmail.com**
+
+- ⚡ Fun fact **Remember! keep it steady, one byte at a time**
 
 ###
 
@@ -89,13 +107,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Matthew-Ayinde/Matthew-Ayinde/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Matthew-Ayinde/count.svg?"  />
-</div>
 
 ###
 
