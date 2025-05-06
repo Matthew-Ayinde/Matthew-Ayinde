@@ -1,9 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/headers/monstercat/LQnX59nHBsOV.gif"  />
-</div>
-
-<div align="center">
-  <img height="150" src="https://res.cloudinary.com/matthew-ayinde/image/upload/v1746541864/Github_profile_dtxlkb.png"/>
+  <img height="500" width="100%" src="https://res.cloudinary.com/matthew-ayinde/image/upload/v1746541864/Github_profile_dtxlkb.png"/>
 </div>
 
 ###
@@ -119,3 +115,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matthew-Ayinde/Matthew-Ayinde/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Matthew-Ayinde/Matthew-Ayinde/output/github-snake.svg" />
 </picture>
+
+
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/headers/monstercat/LQnX59nHBsOV.gif"  />
+</div>
