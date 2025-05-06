@@ -9,21 +9,14 @@
 </div>
 
 ###
+<h2 align="left">Hi 👋 I’m Matthew, Software Engineer & Full-Stack Enthusiast</h2>
 
-<h2 align="left">Hi 👋! My name is Matthew and I'm a Software Engineer</h2>
-
-- 🔭 I’m currently working on **Hildam couture(a tailoring management web app)**
-
-- 🌱 I use **The MERN Stack** for development
-
-- 👯 I’m looking to collaborate on **Intriguing projects**
-
-- 💬 Quiz about **anything Javascript**
-
-- 📫 How to reach me **it.matthewayinde@gmail.com**
-
-- ⚡ Fun fact **Remember! keep it steady, one byte at a time**
-
+- 🔭 Currently crafting **Hildam Couture**, a next-gen tailoring management platform  
+- 🌱 Deep into the **MERN stack**, with side quests in TypeScript, GraphQL & serverless  
+- 👯 Always up for teaming on **open-source tools** and clever side projects  
+- 💬 Ask me anything about **JavaScript performance**, Node.js internals or UI/UX best practices  
+- 📫 Reach me via ✉️ [it.matthewayinde@gmail.com](mailto:it.matthewayinde@gmail.com)  
+- ⚡ Fun fact: I debug faster than a speeding bullet—just don’t ask me to race a parser!
 ###
 
 <div align="left">
