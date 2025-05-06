@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1pFEtbSXe_6UcZORNPs6EMZvJBaCNKKjO/view"/>
+  <img height="150" src="https://res.cloudinary.com/matthew-ayinde/image/upload/v1746541864/Github_profile_dtxlkb.png"/>
 </div>
 
 ###
