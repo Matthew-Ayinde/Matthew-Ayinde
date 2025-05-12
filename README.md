@@ -54,7 +54,7 @@ I am a detail-oriented Software Engineer with a profound passion for full-stack 
 2. **Dtimes Blog Rebuild**
    - Led a team to redesign and migrate the company blog to a modern, SEO-optimized Next.js architecture.
    - Improved page load time by 60% and increased organic traffic by 40% post-launch.
-   - Live at [ajasinfoundation.org](https://dtimes.ng/)
+   - Live at [dtimes](https://dtimes.ng/)
 
 3. **Result Validation Platform**
    - Developed a secure transcript validation portal for Yaba College of Technology using Next Js and Typescript.
