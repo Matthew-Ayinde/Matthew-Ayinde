@@ -50,9 +50,17 @@ I am a detail-oriented Software Engineer with a profound passion for full-stack 
 1. **Hildam Couture** *(In Progress)*
    - A comprehensive tailoring management system built with React, Node.js, TypeScript, REST Api, Php.
    - Features: appointment scheduling, client measurement records, fabric inventory, and automated notifications.
+  
+     
+1. **247 Travels**
+   - Worked with a team to implement a comprehensive redesign and development of a responsive website for 247 Travels, a Lagos-based travel management company specializing in       
+     affordable travel services for corporate and individual clients.
+   - Integrated user-centric features such as dynamic booking forms and real-time customer support, enhancing user experience and streamlining the booking process.
+   - Optimized site performance and implemented SEO best practices, contributing to increased online visibility and user engagement
+   - Successfully launched and maintained the live site [247travels.com](https://247travels.com/)
 
 2. **Dtimes Blog Rebuild**
-   - Led a team to redesign and migrate the company blog to a modern, SEO-optimized Next.js architecture.
+   - Worked with a team to redesign and migrate the company blog to a modern, SEO-optimized Next.js architecture.
    - Improved page load time by 60% and increased organic traffic by 40% post-launch.
    - Live at [dtimes.ng](https://dtimes.ng/)
 
@@ -61,11 +69,11 @@ I am a detail-oriented Software Engineer with a profound passion for full-stack 
    - Integrated email-based verification and administrative dashboards.
 
 4. **Insight Redefini**
-   - Spearheaded the development of a high-impact, responsive website for Nigeria's number one advertising agency, resulting in a 35% increase in user engagement within the first 3          months
+   - Spearheaded the development of a high-impact, responsive website for Nigeria's number one advertising agency, resulting in a 35% increase in user engagement within the first 3         months
    - Live at [insightredefini.com](https://insightredefini.com/)
 
 5. **Quadrant MSL Corporate Site**
-   - Led the end-to-end development of a modern, responsive website for Quadrant MSL, Nigeria’s foremost strategic communications consultancy and a member of the global MSL Group under      Publicis Groupe.
+   - Worked with a team to implement the end-to-end development of a modern, responsive website for Quadrant MSL, Nigeria’s foremost strategic communications consultancy and a member       of the global MSL Group under Publicis Groupe.
    - Optimized site architecture and implemented SEO best practices, contributing to a 25% boost in organic traffic and a 42% increase in average session duration over two months.
    - Live at [quadrantmsl.com](https://quadrantmsl.com/)
 
