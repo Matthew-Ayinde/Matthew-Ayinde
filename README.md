@@ -3,7 +3,7 @@
 
 ---
 
-<img src="https://res.cloudinary.com/matthew-ayinde/image/upload/v1747042556/ChatGPT_Image_May_12_2025_10_32_31_AM_p0gycz.png" alt="JavaScript" width="100%" height="200" />
+<img src="https://res.cloudinary.com/matthew-ayinde/image/upload/v1747042556/ChatGPT_Image_May_12_2025_10_32_31_AM_p0gycz.png" alt="JavaScript" width="100%" />
 
 ### 👤 About Me
 I am a detail-oriented Software Engineer with a profound passion for full-stack development. Currently, I am architecting **Hildam Couture**, a next-generation tailoring management platform designed to streamline operations for bespoke fashion houses. With a solid foundation in both front-end and back-end technologies, I deliver scalable, performant, and user-centric solutions.
