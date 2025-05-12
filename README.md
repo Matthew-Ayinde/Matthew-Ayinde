@@ -48,40 +48,37 @@ I am a detail-oriented Software Engineer with a profound passion for full-stack 
 
 ### 🚀 Key Projects
 1. **Hildam Couture** *(In Progress)*
-   - A comprehensive tailoring management system built with React, Node.js, TypeScript, GraphQL, and serverless functions.
+   - A comprehensive tailoring management system built with React, Node.js, TypeScript, REST Api, Php.
    - Features: appointment scheduling, client measurement records, fabric inventory, and automated notifications.
 
 2. **Dtimes Blog Rebuild**
    - Led a team to redesign and migrate the company blog to a modern, SEO-optimized Next.js architecture.
    - Improved page load time by 60% and increased organic traffic by 40% post-launch.
-   - Live at [dtimes](https://dtimes.ng/)
+   - Live at [dtimes.ng](https://dtimes.ng/)
 
 3. **Result Validation Platform**
    - Developed a secure transcript validation portal for Yaba College of Technology using Next Js and Typescript.
    - Integrated email-based verification and administrative dashboards.
 
-4. **Adekunle Ajasin Foundation Website**
-   - Delivered a turnkey website featuring responsive design, CMS integration, and community engagement tools.
-   - Live at [ajasinfoundation.org](https://ajasinfoundation.org/)
+4. **Insight Redefini**
+   - Spearheaded the development of a high-impact, responsive website for Nigeria's number one advertising agency, resulting in a 35% increase in user engagement within the first 3          months
+   - Live at [insightredefini.com](https://insightredefini.com/)
 
 5. **Quadrant MSL Corporate Site**
-   - Built a dynamic, content-rich site for an award-winning strategic communications firm, complete with case studies and contact portals.
+   - Led the end-to-end development of a modern, responsive website for Quadrant MSL, Nigeria’s foremost strategic communications consultancy and a member of the global MSL Group under      Publicis Groupe.
+   - Optimized site architecture and implemented SEO best practices, contributing to a 25% boost in organic traffic and a 42% increase in average session duration over two months.
    - Live at [quadrantmsl.com](https://quadrantmsl.com/)
 
 6. **Leo Burnett Lagos Agency Platform**
    - Crafted a visually engaging website for a leading creative agency in Lagos, showcasing award-winning campaigns.
    - Live at [leoburnett.ng](https://leoburnett.ng/)
-
-7. **Grand Oak Limited Online Presence**
-   - Developed a corporate site for a major beverage manufacturer, including product catalogs and media sections.
-   - Live at [grandoaklimited.com](https://grandoaklimited.com/) ([grandoaklimited.com](https://grandoaklimited.com/homepage/?utm_source=chatgpt.com))
 ---
 
 ### 📫 Contact Information
 - **Email:** [it.matthewayinde@gmail.com](mailto:it.matthewayinde@gmail.com)  
-- **LinkedIn:** [Matthew-Ayinde](https://www.linkedin.com/in/Matthew-Ayinde)  
+- **LinkedIn:** [Matthew-Ayinde](https://www.linkedin.com/in/matthew-ayinde-9b4894231/)  
 - **GitHub:** [Matthew-Ayinde](https://github.com/Matthew-Ayinde)  
-- **Twitter:** [@MatthewAyinde](https://twitter.com/MatthewAyinde)  
+- **Twitter:** [@MatthewAyinde](https://twitter.com/Your_cute_coder)  
 
 ---
 
