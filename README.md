@@ -22,27 +22,89 @@ I am a detail-oriented Software Engineer with a profound passion for full-stack 
 ---
 
 ### 🛠 Technologies & Tools
+<!-- Technologies & Tools Section for Front-End Developer -->
 <div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="30"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="30"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="30"/>
-
+  <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" />
+  </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" />
+  </a>
+  <!-- React -->
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30" />
+  </a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/docs" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" height="30" />
+  </a>
+  <!-- Tailwind CSS -->
+  <a href="https://tailwindcss.com/docs" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="30" />
+  </a>
+  <!-- Node.js -->
+  <a href="https://nodejs.org/en/docs/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" height="30" />
+  </a>
+  <!-- Express.js -->
+  <a href="https://expressjs.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" height="30" />
+  </a>
+  <!-- GraphQL -->
+  <a href="https://graphql.org/learn/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="30" />
+  </a>
+  <!-- MongoDB -->
+  <a href="https://docs.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="30" />
+  </a>
+  <!-- MySQL -->
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30" />
+  </a>
+  <!-- Docker -->
+  <a href="https://docs.docker.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" height="30" />
+  </a>
+  <!-- Git -->
+  <a href="https://git-scm.com/doc" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" />
+  </a>
+  <!-- GitHub -->
+  <a href="https://docs.github.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" />
+  </a>
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com/docs" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="30" />
+  </a>
+  <!-- Heroku -->
+  <a href="https://devcenter.heroku.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="30" />
+  </a>
+  <!-- Additional Tools & Libraries -->
+  <a href="https://webpack.js.org/concepts/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" height="30" />
+  </a>
+  <a href="https://babeljs.io/docs/en/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" height="30" />
+  </a>
+  <a href="https://eslint.org/docs" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" height="30" />
+  </a>
+  <a href="https://storybook.js.org/docs/react/get-started/introduction" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" height="30" />
+  </a>
+  <a href="https://jestjs.io/docs/getting-started" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" height="30" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="30" />
+  </a>
 </div>
+
 
 ---
 
@@ -59,27 +121,28 @@ I am a detail-oriented Software Engineer with a profound passion for full-stack 
    - Optimized site performance and implemented SEO best practices, contributing to increased online visibility and user engagement
    - Successfully launched and maintained the live site [247travels.com](https://247travels.com/)
 
-2. **Dtimes Blog Rebuild**
+2. **Leo Burnett Lagos Agency Platform**
+   - Crafted a visually engaging website for a leading creative agency in Lagos, showcasing award-winning campaigns.
+   - Live at [leoburnett.ng](https://leoburnett.ng/)
+
+3. **Dtimes Blog Rebuild**
    - Worked with a team to redesign and migrate the company blog to a modern, SEO-optimized Next.js architecture.
    - Improved page load time by 60% and increased organic traffic by 40% post-launch.
    - Live at [dtimes.ng](https://dtimes.ng/)
 
-3. **Result Validation Platform**
+4. **Result Validation Platform**
    - Developed a secure transcript validation portal for Yaba College of Technology using Next Js and Typescript.
    - Integrated email-based verification and administrative dashboards.
 
-4. **Insight Redefini**
+5. **Insight Redefini**
    - Spearheaded the development of a high-impact, responsive website for Nigeria's number one advertising agency, resulting in a 35% increase in user engagement within the first 3         months
    - Live at [insightredefini.com](https://insightredefini.com/)
 
-5. **Quadrant MSL Corporate Site**
+6. **Quadrant MSL Corporate Site**
    - Worked with a team to implement the end-to-end development of a modern, responsive website for Quadrant MSL, Nigeria’s foremost strategic communications consultancy and a member       of the global MSL Group under Publicis Groupe.
    - Optimized site architecture and implemented SEO best practices, contributing to a 25% boost in organic traffic and a 42% increase in average session duration over two months.
    - Live at [quadrantmsl.com](https://quadrantmsl.com/)
 
-6. **Leo Burnett Lagos Agency Platform**
-   - Crafted a visually engaging website for a leading creative agency in Lagos, showcasing award-winning campaigns.
-   - Live at [leoburnett.ng](https://leoburnett.ng/)
 ---
 
 ### 📫 Contact Information
